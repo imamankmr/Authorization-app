@@ -11,6 +11,7 @@ const Home = () => {
       <ul>
         <li><Link to='/login'> Click here to Login</Link></li>
         <li><Link to='/signup'>Click here to SignUp</Link></li>
+        <li><Link to='/aboutus'>about us</Link></li>
       </ul>
     </div>
   )
